@@ -1,0 +1,14 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Testando",
+  "main": "script.js",
+  "scripts": {
+    "start": "node Simulador-de-corridas/src/script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brena Soares",
+  "license": "ISC",
+  "type": "module"
+}
